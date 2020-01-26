@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6208510-452a-4e02-b366-50ae234f365a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RepresentativeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/target/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCases.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -49,11 +48,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.TestCases2.test5">
-    <configuration name="TestCases2" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.RepresentativeTest">
+    <configuration name="RepresentativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="jdbcWorking" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCases2" />
+      <option name="MAIN_CLASS_NAME" value="RepresentativeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RepresentativeTest" />
         <item itemvalue="TestNG.TestCases2.test5" />
         <item itemvalue="TestNG.TestCases2.test4" />
         <item itemvalue="TestNG.TestCases2.test3" />
         <item itemvalue="TestNG.TestCases2.test2" />
-        <item itemvalue="TestNG.TestCases2" />
       </list>
     </recent_temporary>
   </component>
@@ -149,41 +148,50 @@
       <option name="project" value="LOCAL" />
       <updated>1579974654550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jdbc class notes2">
+      <created>1580054635245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580054635245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jdbc class notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdbc class notes" />
+    <MESSAGE value="jdbc class notes2" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc class notes2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="130" key="CommitChangelistDialog2" timestamp="1579974654136">
+    <state x="462" y="130" key="CommitChangelistDialog2" timestamp="1580054634652">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="462" y="130" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579974654136" />
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom" timestamp="1579987679717">
+    <state x="462" y="130" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580054634652" />
+    <state width="1638" height="300" key="GridCell.Tab.0.bottom" timestamp="1580072697149">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579987679717" />
-    <state width="1638" height="300" key="GridCell.Tab.0.center" timestamp="1579987679713">
+    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580072697149" />
+    <state width="1638" height="300" key="GridCell.Tab.0.center" timestamp="1580072697142">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="300" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579987679713" />
-    <state width="1638" height="300" key="GridCell.Tab.0.left" timestamp="1579987679712">
+    <state width="1638" height="300" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580072697142" />
+    <state width="1638" height="300" key="GridCell.Tab.0.left" timestamp="1580072697137">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="300" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579987679712" />
-    <state width="1638" height="300" key="GridCell.Tab.0.right" timestamp="1579987679715">
+    <state width="1638" height="300" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580072697137" />
+    <state width="1638" height="300" key="GridCell.Tab.0.right" timestamp="1580072697146">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="300" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579987679715" />
-    <state x="440" y="266" key="Vcs.Push.Dialog.v2" timestamp="1579974696209">
+    <state width="1638" height="300" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580072697146" />
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2" timestamp="1580054639015">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1579974696209" />
-    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579983459683">
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580054639015" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580070210277">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1580070210277" />
     <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/1680.23.1920.1057@0.0.1680.1050" timestamp="1579983459683" />
   </component>
 </project>
